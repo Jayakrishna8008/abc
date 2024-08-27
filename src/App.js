@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1>Jaya Krishna</h1>
     </div>
   );
 }
